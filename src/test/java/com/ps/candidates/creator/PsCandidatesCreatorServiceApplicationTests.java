@@ -12,5 +12,4 @@ public class PsCandidatesCreatorServiceApplicationTests {
     @Test
     public void contextLoads() {
     }
-
 }
